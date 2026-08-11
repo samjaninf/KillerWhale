@@ -11,10 +11,10 @@
 ## Firmware for Remap
 Once you have confirmed that all keys are working, download the firmware that suits you needs.
 
-- SOLO (Single use)  [tarohayashi_killerwhale_solo_via.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_via.uf2)
-- DUO (Split use) [tarohayashi_killerwhale_duo_via.uf2
-](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_ballleft.uf2)
+- SOLO (Single use)  [tarohayashi_killerwhale_solo_default.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_solo_default.uf2)
+- DUO (Split use) [tarohayashi_killerwhale_duo_default.uf2
+](https://github.com/Taro-Hayashi/KillerWhale/releases/latest/download/tarohayashi_killerwhale_duo_default.uf2)
 
 *** Do not connect or disconnect the TRRS cable while the USB is connected. ***
 Note: keep the toggle switch in the ADD unit towards the palm of your hand.
